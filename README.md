@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Basuke
+- 👋 Hi, I’m Cloud
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning cryptocurrency trading
 - 📫 ApirakSuwanyoteeFit@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
