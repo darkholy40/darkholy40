@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Cloud
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning cryptocurrency trading
-- 📫 ApirakSuwanyoteeFit@gmail.com
+- 👋 Hi, My name is Apirak
+- 👀 I’m interested in Software Development, Tech and Gaming
+- 🌱 I've just left the army on Jan, 2023
+- 📫 Lt.ApirakSuwanyotee@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
